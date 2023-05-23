@@ -44,16 +44,19 @@ header nav a{
     flex-flow: row wrap;
     align-items: center;
     justify-content: center;
-	padding: 0px;
+	padding: 5px;
     background-color: #f4bf3f;
     color:#1c2143;
     margin: 0px;
 }
 .panelPrincipal{
     background-color: beige;
-    height: 300px;
+    height: 90%;
     margin: 10px;
     border-radius: 5px;
+    align-items: center;
+    padding: 5px;
+
 }
 
 /*Apresentação*/
