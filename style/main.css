@@ -51,7 +51,7 @@ header nav a{
 }
 .panelPrincipal{
     background-color: beige;
-    height: 90%;
+    height: 500px;
     margin: 10px;
     border-radius: 5px;
     align-items: center;
